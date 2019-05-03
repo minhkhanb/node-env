@@ -1,0 +1,17 @@
+{
+  "name": "node-smarter-config",
+  "version": "1.0.0",
+  "description": "Node.js Best Practices - Smarter Ways to Manage Config Files and Variables",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Dinosaur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  }
+}
